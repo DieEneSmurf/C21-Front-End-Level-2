@@ -1,0 +1,45 @@
+*{
+    margin:0; 
+    padding:0;
+}
+
+html{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style:normal;
+    font-size:16px;
+    color: #5a5150;
+    line-height:1.8;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Karla', sans-serif;
+    font-style:normal;
+    color: #4e4b4b;
+    line-height:1.4;
+}
+
+h2{
+    font-size:40px;
+    line-height:1.2;
+}
+
+h3{
+    font: size 16px;
+    line-height:1.2;
+}
+
+a{
+    font-family:'Karla', sans-serif;
+    font-size:14px;
+    color:#ca404f;
+    line-height:1.4;
+    text-decoration:none;
+}
+
+button{
+    font-family: 'Karla', sans-serif;
+    font-size:14px;
+    color: white;
+    background-color:#ca404f;
+    line-height: 42px;
+}
